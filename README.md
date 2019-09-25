@@ -1,2 +1,1 @@
-# Abril2017
-# Codes
+Projetos/Estudos sobre desenvolvimento e capacitação como desenvolvedor
